@@ -1,0 +1,11 @@
+.weather-data__box {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.weather-data__property {
+  text-align: center;
+}
+.weather-data__title {
+  font-size: 10px;
+}

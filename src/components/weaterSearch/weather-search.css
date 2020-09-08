@@ -1,0 +1,21 @@
+.search {
+  background-color: skyblue;
+  border: none;
+  outline: none;
+  height: 30px;
+  border-radius: 8px;
+}
+.inputArrow {
+  display: flex;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.btn {
+  background-color: skyblue;
+  border: none;
+  outline: none;
+  height: 30px;
+  border-radius: 8px;
+  margin-left: -30px;
+  position: absolute;
+}

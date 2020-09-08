@@ -4,7 +4,7 @@ import "./header.css";
 const Header = () => {
   return (
     <div className="header">
-      <h3>Weater Forecast</h3>
+      <h3>Weather Forecast</h3>
     </div>
   );
 };
